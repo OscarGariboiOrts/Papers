@@ -1,2 +1,3 @@
 # Papers
-Papers published, including Internatinal Tasks' Proceedings and Worknotes
+
+This is a series of published papers, including Internatinal Tasks' Proceedings and Worknotes.
